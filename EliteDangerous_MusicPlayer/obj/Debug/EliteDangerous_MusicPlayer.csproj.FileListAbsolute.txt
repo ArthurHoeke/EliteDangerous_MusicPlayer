@@ -1,0 +1,11 @@
+c:\users\arthur\documents\visual studio 2013\Projects\EliteDangerous_MusicPlayer\EliteDangerous_MusicPlayer\bin\Debug\EliteDangerous_MusicPlayer.exe.config
+c:\users\arthur\documents\visual studio 2013\Projects\EliteDangerous_MusicPlayer\EliteDangerous_MusicPlayer\bin\Debug\EliteDangerous_MusicPlayer.exe
+c:\users\arthur\documents\visual studio 2013\Projects\EliteDangerous_MusicPlayer\EliteDangerous_MusicPlayer\bin\Debug\EliteDangerous_MusicPlayer.pdb
+c:\users\arthur\documents\visual studio 2013\Projects\EliteDangerous_MusicPlayer\EliteDangerous_MusicPlayer\obj\Debug\EliteDangerous_MusicPlayer.Form1.resources
+c:\users\arthur\documents\visual studio 2013\Projects\EliteDangerous_MusicPlayer\EliteDangerous_MusicPlayer\obj\Debug\EliteDangerous_MusicPlayer.Properties.Resources.resources
+c:\users\arthur\documents\visual studio 2013\Projects\EliteDangerous_MusicPlayer\EliteDangerous_MusicPlayer\obj\Debug\EliteDangerous_MusicPlayer.csproj.GenerateResource.Cache
+c:\users\arthur\documents\visual studio 2013\Projects\EliteDangerous_MusicPlayer\EliteDangerous_MusicPlayer\obj\Debug\EliteDangerous_MusicPlayer.exe
+c:\users\arthur\documents\visual studio 2013\Projects\EliteDangerous_MusicPlayer\EliteDangerous_MusicPlayer\obj\Debug\EliteDangerous_MusicPlayer.pdb
+c:\users\arthur\documents\visual studio 2013\Projects\EliteDangerous_MusicPlayer\EliteDangerous_MusicPlayer\obj\Debug\Interop.WMPLib.dll
+c:\users\arthur\documents\visual studio 2013\Projects\EliteDangerous_MusicPlayer\EliteDangerous_MusicPlayer\obj\Debug\EliteDangerous_MusicPlayer.csproj.ResolveComReference.cache
+C:\Users\Arthur\documents\visual studio 2013\Projects\EliteDangerous_MusicPlayer\EliteDangerous_MusicPlayer\obj\Debug\EliteDangerous_MusicPlayer.csprojResolveAssemblyReference.cache
